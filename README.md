@@ -1,1 +1,1 @@
-# Random forest - wine quality prediction
+# Random forest - Wine quality prediction
